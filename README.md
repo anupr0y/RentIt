@@ -24,7 +24,7 @@ RentIt is a website helps for the student's who are searching Praying Guest, Roo
 
 ## View My Projects
 
-Ready to see the project? [Click here](https://anuproybca.github.io/RentIt/Index.html) 
+Ready to see the project? [Click here](https://anupr0y.github.io/RentIt/Index.html) 
 
 
 
