@@ -33,6 +33,8 @@ Designed and developed a complete web platform from scratch, starting with creat
     </a>
 </p>
 
+![rent it](https://github.com/user-attachments/assets/2d429a37-40c9-4e5f-b618-c8a6140247cf)
+
 
 ## View My Projects
 
